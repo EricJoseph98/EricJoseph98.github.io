@@ -1,0 +1,6 @@
+Static Website Page of Content Store created by Eric Joseph (ericjkurusinkal@gmail.com), student at Amrita Vishwa Vidyapeetham, Coimbatore.
+
+Website uses Bootstrap 4 as frontend framework (css and js folder). It also uses images (peacock logo and Whitepanda company logo) and a specific CSS file (projectStylesheet.css) in the website.
+A folder contains screenshots of website incase it does not load properly on your device.
+
+Thank you.
